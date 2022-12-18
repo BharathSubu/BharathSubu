@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [MedTech](https://github.com/BharathSubu/medlifepro)
 
+- 🏆 Successfully Completed 100 days of code [Github repo](https://github.com/BharathSubu/100daysofCoding)
+
 - 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BharathSubu](https://github.com/BharathSubu)
